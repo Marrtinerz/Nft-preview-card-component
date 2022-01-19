@@ -79,8 +79,8 @@ I am currently learning javascript. For now, I will continue my classes on Javas
 ## Author
 
 - Website - [Martins Nnamchi](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Marrtinerz](https://www.frontendmentor.io/profile/Marrtinerz)
+- Twitter - [@marrtinerz](https://www.twitter.com/marrtinerz)
 
 
 ## Acknowledgments
