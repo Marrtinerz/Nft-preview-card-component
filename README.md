@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/Marrtinerz/Nft-preview-card-component.git)
 - Live Site URL: (https://marrtinerz.github.io/Nft-preview-card-component/)
 
 ## My process
